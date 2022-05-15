@@ -1,0 +1,12 @@
+﻿  Bill.cpp
+  Time.cpp
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(118,31): warning C4244: '-=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(119,38): warning C4244: '-=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(155,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(156,32): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(157,39): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(215,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Lab1.7\Time.cpp(109): warning C4715: 'Time::IsLaterThan': not all control paths return a value
+  Lab1.7.vcxproj -> C:\Users\KATERYNA\Desktop\OOP\Lab1.7\Lab1.7\Debug\Lab1.7.exe
